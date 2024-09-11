@@ -1,0 +1,5 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/KSH/Downloads/SnakeGame/Content/Assets/apple.png","C:/Users/KSH/Downloads/SnakeGame/Content/bin/DesktopGL/Assets/apple.xnb","TextureProcessor","Texture2DContent",1155,1681,0.0681494
+"C:/Users/KSH/Downloads/SnakeGame/Content/Assets/snake-body.png","C:/Users/KSH/Downloads/SnakeGame/Content/bin/DesktopGL/Assets/snake-body.xnb","TextureProcessor","Texture2DContent",206,409,0.0024333
+"C:/Users/KSH/Downloads/SnakeGame/Content/Assets/snake-head.png","C:/Users/KSH/Downloads/SnakeGame/Content/bin/DesktopGL/Assets/snake-head.xnb","TextureProcessor","Texture2DContent",227,409,0.0015797
+"C:/Users/KSH/Downloads/SnakeGame/Content/Fonts/scoreFont.spritefont","C:/Users/KSH/Downloads/SnakeGame/Content/bin/DesktopGL/Fonts/scoreFont.xnb","FontDescriptionProcessor","SpriteFontContent",2068,21538,0.0498508
